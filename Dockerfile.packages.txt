@@ -1,0 +1,11 @@
+curl
+make
+git
+ca-certificates
+grep
+rsync
+jq
+bash
+openssh-client
+gawk
+gnupg
